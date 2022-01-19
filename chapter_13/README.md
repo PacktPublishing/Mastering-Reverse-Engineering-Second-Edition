@@ -32,8 +32,8 @@ Usage:
 3. Run word_final_sample.docx to the target machine<br>
 
 _**Others**_<br>
-xl_p.xls - VBA password-protected (password)<br>
-xl__p_12345 - VBA password-protected (12345)<br>
+*xl_p.xls* - VBA password-protected (password)<br>
+*xl_p_12345.xls* - VBA password-protected (12345)<br>
 
 
 
