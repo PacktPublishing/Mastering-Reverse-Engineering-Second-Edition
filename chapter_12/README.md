@@ -1,7 +1,7 @@
 
 All ZIP files are password-protected with password "infected"
 
-**Samples**
+**Samples**<br>
 _**CSharp in Powershell**_<br>
 *csharp_injectdll_decoded.ps1* - sample for invoking CSharp in Powershell (decoded)<br>
 *csharp_injectdll_encoded.ps1* - sample for invoking CSharp in Powershell (encoded)<br>
