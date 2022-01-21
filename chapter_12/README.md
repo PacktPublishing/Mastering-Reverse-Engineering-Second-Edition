@@ -11,4 +11,4 @@ All ZIP files are password-protected with password "infected"
 *AnalyzeProc.ps1* - Powershell Cmdlet that analyze running processes.<br>
 *obfuscated.ps1* - obfuscated Powershell script<br>
 *g.bin* - binary dump of embedded Shellcode<br>
-*g.i64* - IDA Pro binary of embedded Shellcode<br>
+*g.i64* - IDA Pro binary file of embedded Shellcode with analysis and comments<br>
