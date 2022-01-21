@@ -3,7 +3,7 @@ All ZIP files are password-protected with password "infected"
 
 **Compiling Assembly codes:** 
 1. Install MASM32 by downloading the installer here: https://www.masm32.com/download.htm<br>
-_NOTE:_ Install MASM in default directory (c:\)
+_NOTE:_ Install MASM in default directory (c:\\masm32)
 2. Run the .BAT file to build an executable file
 
 **ARC4**<br>
