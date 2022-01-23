@@ -25,7 +25,7 @@ All ZIP files are password-protected with password "infected"
 *kbdloader.exe* - compiled EXE file<br>
 *build_loader.bat* - EXE file builder<br>
 
-**WH_KEYBOARD**<br>
+**WH_KEYBOARD_LL**<br>
 *wh_kbd_ll.asm* - assembly code for WH_KEYBOARD_LL hook type<br>
 *wh_kbd_ll.dll* - compiled DLL file<br>
 *wh_kbd_ll.def* - library definition file<br>
