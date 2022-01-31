@@ -24,7 +24,7 @@ All ZIP files are password-protected with password "infected"
 **Remote Template Injection**<br>
 *word_final_sample/word_final_sample.docx* - sample for Remote Template Injection<br>
 *word_final_sample/word_remote_template.dotm* - sample for Remote Template Injection<br>
-*s.bin* - sample document remotely downloaded by Remote Template Injection technique<br>
+*word_final_sample/s.bin* - sample document remotely downloaded by Remote Template Injection technique<br>
 Usage:
 1. Setup a local webserver (e.g. http://localhost)<br>
 2. Save word_remote_template.dotm and s.bin to the root of the webserver<br>
