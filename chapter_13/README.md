@@ -22,8 +22,8 @@ All ZIP files are password-protected with password "infected"
 *word_ddeauto2.docx* - sample file for DDEAUTO<br>
 
 **Remote Template Injection**<br>
-*word_final_sample.docx* - sample for Remote Template Injection<br>
-*word_remote_template.dotm* - sample for Remote Template Injection<br>
+*word_final_sample/word_final_sample.docx* - sample for Remote Template Injection<br>
+*word_final_sample/word_remote_template.dotm* - sample for Remote Template Injection<br>
 *s.bin* - sample document remotely downloaded by Remote Template Injection technique<br>
 Usage:
 1. Setup a local webserver (e.g. http://localhost)<br>
