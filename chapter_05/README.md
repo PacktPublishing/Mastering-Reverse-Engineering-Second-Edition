@@ -14,5 +14,5 @@ All ZIP files are password-protected with password "infected"
 *xslt/hi.xml* - XML file for hi.xsl<br>
 *xslt/hi.xsl* - stylesheet file for hi.xml<br>
 *xslt/hi.html* - HTML file that loads and parse hi.xml and hi.xsl<br>
-*xslt/thisxml.xml - XML file for thisxsl.xsl<br>
-*xslt/thisxsl.xml - stylesheet for thisxml.xml which will spawn CMD.EXE<br>
+*xslt/thisxml.xml* - XML file for thisxsl.xsl<br>
+*xslt/thisxsl.xml* - stylesheet for thisxml.xml which will spawn CMD.EXE<br>
