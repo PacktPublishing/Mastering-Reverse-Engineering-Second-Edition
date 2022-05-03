@@ -166,7 +166,7 @@ if __name__ == "__main__":
         
     else:
         print("[X] ERROR: Please input target document file.")
-        print("[*] Usage: python amacro.py <target_document>")
+        print("[*] Usage: python analyze_macro.py <target_document>")
 
 
 
